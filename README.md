@@ -1,3 +1,3 @@
 # Digital-Alarm-Clock
 Below is an Image of our initial work
-![alt text](https://i.im.ge/2024/04/30/ZP2fl9.Screenshot-2024-04-30-at-5-32-31AM.png)
+<img width="990" alt="Screenshot 2024-04-30 at 5 35 36 AM" src="https://github.com/alyelaswad/Digital-Alarm-Clock/assets/124714695/15580f0f-75f6-4f40-9ac6-df212efd1b1a">
