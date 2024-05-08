@@ -58,7 +58,6 @@
     <a name="simulationFrequency" val="2048000.0"/>
     <appear>
       <text dominant-baseline="alphabetic" fill="#ffffff" font-family="Dialog" font-size="14" font-weight="bold" text-anchor="middle" x="152" y="906">main</text>
-      <rect fill="none" height="747" rx="10" ry="10" stroke="#0004b0" width="977" x="150" y="102"/>
       <rect fill="#b01116" height="21" rx="10" ry="10" stroke="none" width="22" x="457" y="156"/>
       <rect fill="#b01116" height="21" rx="10" ry="10" stroke="none" width="22" x="457" y="204"/>
       <rect fill="#b01116" height="21" rx="10" ry="10" stroke="none" width="22" x="739" y="156"/>
@@ -87,7 +86,6 @@
       <text dominant-baseline="central" fill="#52cf50" font-family="SansSerif" font-size="27" text-anchor="middle" x="599" y="372">Alarm</text>
       <text dominant-baseline="central" fill="#c73b2b" font-family="SansSerif" font-size="12" text-anchor="middle" x="242" y="331">Increment Seconds</text>
       <text dominant-baseline="central" fill="#c73b2b" font-family="SansSerif" font-size="12" text-anchor="middle" x="246" y="350">Decrement Seconds</text>
-      <ellipse cx="344" cy="659" fill="none" rx="145" ry="81" stroke="#000000"/>
       <text dominant-baseline="central" fill="#00799c" font-family="SansSerif" font-size="12" text-anchor="middle" x="877" y="567">Alarm LED</text>
       <circ-anchor facing="east" x="1000" y="160"/>
       <circ-port dir="in" pin="200,250" x="270" y="120"/>
