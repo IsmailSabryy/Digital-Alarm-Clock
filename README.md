@@ -64,13 +64,13 @@ The digital alarm clock project includes the following features and components:
 ### Logisim Implementation
 - Tested the circuit with a multiplexed display for seconds, minutes, and hours.
 - Implemented a Clock-Alarm demo with counters and up-and-down increment logic.
-<img width="990" src=(https://github.com/alyelaswad/Project1DigitalDesign/assets/124714695/454ce4ed-c2e8-47c3-a1cc-2c2a9bd504d6)>
+![unnamed (1)](https://github.com/alyelaswad/Digital-Alarm-Clock/assets/124714695/9825c27b-2fd7-4225-bbc1-1f49fdb0d6d2)
+
 
 
 ### Vivado Implementation
 - Developed Verilog modules: Debouncer, MUX4x1, Clock Divider, Synchronizer, Rising Edge Detector, Push Button, HoursMin Counter, and Digital Clock.
 - Validated the design by ensuring correct time increment/decrement and proper alarm activation.
-<img src=(https://github.com/alyelaswad/Project1DigitalDesign/assets/124714695/8b41730d-2ac3-4956-a462-94aa1537f645)>
 
 
 ## Conclusion
